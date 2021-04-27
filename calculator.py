@@ -9,5 +9,5 @@ def subtract(a,b):
 def multiply(a,b):
 	return	a*b
 
-def multiply(a,b):
+def divite_premium(a,b):
 	return	a/b
