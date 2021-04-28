@@ -11,6 +11,5 @@ def multiply(a,b):
 
 def divite_premium(a,b):
 	return	a/b
-def say_hello():
-	print("hello")
+
 	
